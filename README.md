@@ -342,26 +342,28 @@ The Risk Analysis dashboard provides a deeper examination of fraud patterns acro
 ```text
 bank-transaction-fraud-analytics/
 │
-├── 01_data_validation.sql
-├── 02_data_quality_checks.sql
-├── 03_fraud_overview.sql
-├── 04_geographic_analysis.sql
-├── 05_payment_merchant_analysis.sql
-├── 06_transaction_behaviour_analysis.sql
-├── 07_risk_patterns_analysis.sql
-│
-├── images/
+├── Images/
 │   ├── fraud-overview.png
 │   └── risk-analysis.png
 │
-├── Bank_Transaction_Fraud_Analytics.pbix
+├── sql/
+│   ├── 01_data_validation.sql
+│   ├── 02_data_quality_checks.sql
+│   ├── 03_fraud_overview.sql
+│   ├── 04_geographic_analysis.sql
+│   ├── 05_payment_merchant_analysis.sql
+│   ├── 06_transaction_behaviour_analysis.sql
+│   └── 07_risk_patterns_analysis.sql
 │
+├── POWER_BI_DASHBOARD.md
 └── README.md
 ```
 
-The `images` folder contains the dashboard screenshots displayed in this README.
+- **Images:** Contains screenshots of the two Power BI dashboard pages.
+- **SQL:** Contains the seven SQL scripts used for data validation, quality assessment, and fraud analysis.
+- **Power_bi_dashboard.md:** Provides access to the downloadable Power BI dashboard file.
+- **README.md:** Contains the project documentation, workflow, analytical findings, and dashboard visualisations.
 
-The Power BI file should only be included if redistribution of its embedded dataset is permitted by the dataset's licence.
 
 ## 10. Project Limitations
 
