@@ -378,6 +378,7 @@ The Power BI file should only be included if redistribution of its embedded data
 - Power BI dashboard containing two interactive report pages.
 - DAX measures and calculated columns.
 - Documented analytical findings and risk-monitoring recommendations.
+- - [Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/12iXPNYdpH6OMTet4-EeePFUFySAmhBpD/view?usp=sharing)
 
 ## 12. Author
 
