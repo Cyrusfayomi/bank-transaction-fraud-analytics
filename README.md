@@ -346,7 +346,7 @@ bank-transaction-fraud-analytics/
 │   ├── fraud-overview.png
 │   └── risk-analysis.png
 │
-├── SQL/
+├── sql/
 │   ├── 01_data_validation.sql
 │   ├── 02_data_quality_checks.sql
 │   ├── 03_fraud_overview.sql
