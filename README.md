@@ -346,7 +346,7 @@ bank-transaction-fraud-analytics/
 │   ├── fraud-overview.png
 │   └── risk-analysis.png
 │
-├── sql/
+├── SQL/
 │   ├── 01_data_validation.sql
 │   ├── 02_data_quality_checks.sql
 │   ├── 03_fraud_overview.sql
@@ -361,7 +361,7 @@ bank-transaction-fraud-analytics/
 
 - **Images:** Contains screenshots of the two Power BI dashboard pages.
 - **SQL:** Contains the seven SQL scripts used for data validation, quality assessment, and fraud analysis.
-- **Power_bi_dashboard.md:** Provides access to the downloadable Power BI dashboard file.
+- **POWER_BI_DASHBOARD.md:** Provides access to the downloadable Power BI dashboard file.
 - **README.md:** Contains the project documentation, workflow, analytical findings, and dashboard visualisations.
 
 
