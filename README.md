@@ -386,6 +386,5 @@ bank-transaction-fraud-analytics/
 
 **Cyrus Fayomi**
 
-Information & Communication Science Graduate | Data Analysis | SQL | Power BI
-
+Information & Communication Science Graduate | Data Analyst | 
 [GitHub Profile](https://github.com/Cyrusfayomi)
